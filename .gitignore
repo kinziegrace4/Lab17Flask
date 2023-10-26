@@ -1,0 +1,11 @@
+# Ignore cache files
+__pychache__/
+*.pyc
+*.pyo
+
+# Ignore Photos
+*.jpeg
+*.jpeg
+*.png
+
+
