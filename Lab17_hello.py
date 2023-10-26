@@ -14,6 +14,11 @@ def hello():
 def t_test():
 	return render_template('template.html')
 
+# Created another simple app route to add a different template using a background image and pdf link
+# I wanted to get more practice on git
+@app.route('/woodward/resume')
+def t_test2():
+	return render_template('new_template.html')
 
 
 

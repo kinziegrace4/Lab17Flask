@@ -6,5 +6,9 @@ __pychache__/
 # Ignore Photos
 AdobeStock_283958331_Preview.jpeg
 
+*.DS_Store
+
+
+
 
 
